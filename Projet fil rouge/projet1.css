@@ -103,10 +103,7 @@ footer nav ul{
     align-items: center;
     list-style-type: none;
 }
-
-}
 footer a:hover{
-    text-decoration: blink;
     color: #cf4a11;
 }
 footer p{
